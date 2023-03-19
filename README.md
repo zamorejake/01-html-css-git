@@ -4,7 +4,7 @@
 This project is an advertising page to let visitors from respective companies see Horiseon's services which consist of search engine optimziation, online reputation management, and social media marketing. This is a landing page which has some hyper links at the top to jump down to the respective information panels.
 
 ## Visuals
-![Picture of landing page](https://github.com/zamorejake/01-html-css-git/blob/main/Develop/assets/images/demoSMALLER.png)
+![Picture of landing page](https://github.com/zamorejake/01-html-css-git/blob/main/assets/images/demoSMALLER.png)
 
 ## Usage
 Viewing Horiseon's services and reading about them.
